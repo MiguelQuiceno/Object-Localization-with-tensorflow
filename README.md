@@ -1,1 +1,6 @@
-# Object-Localization-with-tensorflow
+# Object-Localization-with-tensorflow(English project)
+![image](https://user-images.githubusercontent.com/60410581/127754204-a52c58a6-ced8-485b-b31e-db4f378017c0.png)
+
+This is a beginner computer vision project with convolutional neural networks.
+## Project explanation:
+The idea is to localize emojis with a bounding box, but in not like a normal computer vision project where we train the model with images and move a sliding window through the image and find the object, we calculate the intersection over the union between grounding boxes and train the model 
